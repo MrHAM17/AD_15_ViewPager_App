@@ -38,3 +38,66 @@ Application demonstrating how to create **swipeable screens** or tabs using the 
 ViewPager combined with Fragments is essential for building complex apps with multiple sections or introductory guides/galleries that require smooth horizontal navigation.
 
 ---
+
+### Screenshots
+<table style="width:100%;"> 
+  <tr> 
+    <td align="center" style="width:50%;"> 
+      <strong>ViewPager - Fragments
+        <br>
+      </strong>
+      <br> 
+      <img src="https://github.com/MrHAM17/AD_15_ViewPager_App/blob/main/Result%20Pics/01%20ViewPager%20%40%20Fragments.jpg" height="510" width="240"> 
+  </td> 
+    <td align="center" style="width:50%;"> 
+      <strong>ViewPager - Fragments
+        <br>
+      </strong>
+      <br> 
+      <img src="https://github.com/MrHAM17/AD_15_ViewPager_App/blob/main/Result%20Pics/02%20ViewPager%20%40%20Fragments.jpg" height="510" width="240"> 
+  </td> 
+    <td align="center" style="width:50%;"> 
+      <strong>ViewPager - Fragments
+        <br>
+      </strong>
+      <br> 
+      <img src="https://github.com/MrHAM17/AD_15_ViewPager_App/blob/main/Result%20Pics/03%20ViewPager%20%40%20Fragments.jpg" height="510" width="240"> 
+  </td> 
+    <td align="center" style="width:50%;"> 
+      <strong>ViewPager - Fragments
+        <br>
+      </strong>
+      <br> 
+      <img src="https://github.com/MrHAM17/AD_15_ViewPager_App/blob/main/Result%20Pics/04%20ViewPager%20%40%20Fragments.jpg" height="510" width="240"> </td> </tr> </table>
+
+<table style="width:100%;"> 
+  <tr> 
+    <td align="center" style="width:50%;"> 
+      <strong>ViewPager - Fragments + Tabs
+        <br>
+      </strong>
+      <br> 
+      <img src="https://github.com/MrHAM17/AD_15_ViewPager_App/blob/main/Result%20Pics/05%20ViewPager%20%40%20Fragments%20%2B%20Tabs.jpg" height="510" width="240"> 
+  </td> 
+    <td align="center" style="width:50%;"> 
+      <strong>ViewPager - Fragments + Tabs
+        <br>
+      </strong>
+      <br> 
+      <img src="https://github.com/MrHAM17/AD_15_ViewPager_App/blob/main/Result%20Pics/06%20ViewPager%20%40%20Fragments%20%2B%20Tabs.jpg" height="510" width="240"> 
+  </td> 
+    <td align="center" style="width:50%;"> 
+      <strong>ViewPager - Fragments + Tabs
+        <br>
+      </strong>
+      <br> 
+      <img src="https://github.com/MrHAM17/AD_15_ViewPager_App/blob/main/Result%20Pics/07%20ViewPager%20%40%20Fragments%20%2B%20Tabs.jpg" height="510" width="240"> 
+  </td> 
+    <td align="center" style="width:50%;"> 
+      <strong>ViewPager - Fragments + Tabs
+        <br>
+      </strong>
+      <br> 
+      <img src="https://github.com/MrHAM17/AD_15_ViewPager_App/blob/main/Result%20Pics/08%20ViewPager%20%40%20Fragments%20%2B%20Tabs.jpg" height="510" width="240"> </td> </tr> </table>
+
+---
